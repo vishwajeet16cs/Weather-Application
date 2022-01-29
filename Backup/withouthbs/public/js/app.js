@@ -1,0 +1,1 @@
+console.log("clinte side java script file is loaded!")
